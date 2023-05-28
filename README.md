@@ -12,14 +12,14 @@
 ## Table of Contents
 
 - [Smallest Enclosing Circle Algorithms](#smallest-enclosing-circle-algorithms)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Naive Algorithm](#naive-algorithm)
-  - [Welzl Algorithm](#welzl-algorithm)
-  - [Comparison](#comparison)
-  - [Conclusion](#conclusion)
-  - [References](#references)
-  - [Additional Notes] (#additional-notes)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Naive Algorithm](#naive-algorithm)
+- [Welzl Algorithm](#welzl-algorithm)
+- [Comparison](#comparison)
+- [Conclusion](#conclusion)
+- [References](#references)
+- [Additional Notes](#additional-notes)
 
 ## Introduction
 
